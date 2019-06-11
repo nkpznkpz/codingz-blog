@@ -11,7 +11,7 @@ module.exports = {
   author: 'Palakorn Nakphong',
   githubUrl: 'https://github.com/nkpznkpz/codingz-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://pensive-easley-45c1ae.netlify.com/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
